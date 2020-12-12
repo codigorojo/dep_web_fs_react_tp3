@@ -1,7 +1,7 @@
 /* 
 El primer bloque lo hago para resetear 
 a 0 el padding y margin de todos los navegadores, 
-aunque lo que se hace siempre es normalize */
+aunque lo que se hace siempre es normalize. */
 
 * {
     margin: 0;

@@ -1,12 +1,12 @@
 En el curso, comenzamos con css introductorio.
 
 ENUNCIADO
-El profe, nos paso una captura y había que hacerla en código.
+El profe, nos paso una captura (la pego en el repo) y había que hacerla en código.
 
 RESULTADO
 Se puede ver aca:
 https://codigorojo.github.io/dep_web_fs_react_tp3/
 
-EXTRACTO O CONCLUSIÓN DE ESTA EXPERIENCIA
+CONCLUSIÓN DE ESTA EXPERIENCIA
 Mi primera vez editando un svg y normalizando sin normalize.
-Un detalle destacado para mí: cuando resolví el centrado con padding de 100px.
+Me costó centrar sin flex (porque todavía no se vió en el curso), me había olvidado el recurso del padding para centrar.
