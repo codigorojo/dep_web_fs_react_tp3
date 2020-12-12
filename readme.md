@@ -1,7 +1,8 @@
 En el curso, comenzamos con css introductorio.
 
 ENUNCIADO
-El profe, nos paso una captura (la pego en el repo) y había que hacerla en código.
+El profe, nos paso esta captura y había que hacerla en código.
+![https://github.com/codigorojo/dep_web_fs_react_tp3/blob/master/docs/images/enunciado.jpg]
 
 RESULTADO
 Se puede ver aca:
