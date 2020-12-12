@@ -5,7 +5,7 @@ El profe, nos paso una captura y había que hacerla en código.
 
 RESULTADO
 Se puede ver aca:
-https://codigorojo.github.io/dep_web_fs_react_tp2/
+https://codigorojo.github.io/dep_web_fs_react_tp3/
 
 EXTRACTO O CONCLUSIÓN DE ESTA EXPERIENCIA
 Mi primera vez editando un svg y normalizando sin normalize.
