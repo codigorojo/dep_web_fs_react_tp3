@@ -1,0 +1,27 @@
+/* 
+El primer bloque lo hago para resetear 
+a 0 el padding y margin de todos los navegadores, 
+aunque lo que se hace siempre es normalize */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 500px;
+    color: red;
+    padding: 100px;
+}
+
+body{
+    background-color: #00ff00;
+}
+
+div{
+    background-color: yellow;
+    width: 700px;
+    height: 700px;
+    margin-left: 350px;
+    margin-top: 75px;
+}
